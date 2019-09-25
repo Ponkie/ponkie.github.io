@@ -1,0 +1,44 @@
+{
+"CustomerNumber":"KIN01",
+"PurchaseNumber":"1",
+"ShipVia":"Federal Deliveries",
+"SP":"ESL",
+"Terms":"2% 10 Days, Net due in 30 days",
+"InvoiceTable":[
+{
+"Amount":"1800.00",
+"Description":"Softrak: Adagio Ledger",
+"Quantity":"1",
+"QuantityShipped":"1",
+"UnitPrice":"1800.00"
+},
+{
+"Amount":"1800.00",
+"Description":"Softrak: Adagio Payable ",
+"Quantity":"1",
+"QuantityShipped":"1",
+"UnitPrice":"1800.00"
+},
+{
+"Amount":"1800.00",
+"Description":"Softrak: Adagio Receivables",
+"Quantity":"1",
+"QuantityShipped":"1",
+"UnitPrice":"1800.00"
+},
+{
+"Amount":"1800.00",
+"Description":"Softrak: Adagio Invoices",
+"Quantity":"1",
+"QuantityShipped":"1",
+"UnitPrice":"1800.00"
+},
+{
+"Amount":"2075.00",
+"Description":"Ada1io Lanoak 5",
+"Quantity":"1",
+"QuantityShipped":"1",
+"UnitPrice":"2075.00"
+}
+]
+}
